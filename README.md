@@ -20,7 +20,7 @@ Sou um ML Engineer apaixonado por criar soluções inovadoras que resolvem probl
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogmedeiros&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
 
-### Saiba mais sobre mim em: https://preview--pietro-side-scroll-folio.lovable.app/)
+### Saiba mais sobre mim em: https://preview--pietro-side-scroll-folio.lovable.app/
 
 ### 📬 Entre em contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-medeiros-770bba162/)
