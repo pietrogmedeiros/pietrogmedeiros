@@ -29,10 +29,10 @@ Implementação de soluções multi-sistema (APIs, webhooks, microserviços)
 </div>
 📊 Estatísticas
 <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogmedeiros&layout=compact&theme=dark" /> </p>
-🌐 Portfolio
 
-🔗 https://preview--pietro-side-scroll-folio.lovable.app/
 
 💬 Entre em contato
+
+Linkedin: https://www.linkedin.com/in/pietro-medeiros-770bba162/
 
 
